@@ -1,0 +1,152 @@
+AAP101 – Art Appreciation | Image Folder Guide (validated)
+=========================================================
+
+This guide lists all image and media files referenced by
+`AAP101_Art_Appreciation.html`, and shows which files are
+currently present in the `images/` folder in this workspace.
+
+Action required: place the missing files listed below into the
+`images/` folder next to `AAP101_Art_Appreciation.html` so the
+page displays the intended visuals. The app will still run with
+placeholders if files are missing.
+
+Referenced image/media files (extracted from the HTML):
+- Video1.mp4
+- image1.jpg
+- image2.jpg
+- image3.jpg
+- image4.jpg
+- image5.jpg
+- image6.jpg
+- image7.jpg
+- image8.jpg
+- image9.jpg
+- image10.jpg
+- image11.jpg
+- image12.jpg
+- image13.jpg
+- image14.jpg
+- image15.jpg
+- image16.jpg
+- image17.jpg
+- image18.jpg
+- image19.jpg
+- image20.jpg
+- image21.jpg
+- image22.jpg
+- image23.jpg
+- image24.jpg
+- image25.jpg
+- image26.jpg
+- image27.jpg
+- image28.jpg
+- image29.jpg
+- image30.jpg
+- image31.jpg
+- image32.jpg
+- image33.jpg
+- image34.jpg
+- image35.jpg
+- image36.jpg
+- image37.jpg
+- image38.jpg
+- image39.jpg
+- image40.jpg
+- image41.jpg
+- image42.jpg
+- image43.jpg
+- image44.jpg
+- image45.jpg
+- image46.jpg
+- image47.jpg
+- image48.jpg
+- image49.jpg
+- image50.jpg
+- image51.jpg
+- image52.jpg
+- image53.jpg
+- image54.jpg
+- image55.jpg
+- image56.jpg
+- image57.jpg
+
+Files currently present in `images/` (checked in workspace):
+- image1.jpg
+- image2.jpg
+- image3.jpg
+- image4.jpg
+- image5.jpg
+- image6.jpg
+- Video1.mp4
+Missing files (referenced but not present in `images/`):
+
+- image7.jpg
+- image8.jpg
+- image9.jpg
+- image10.jpg
+- image11.jpg
+- image12.jpg
+- image13.jpg
+- image14.jpg
+- image15.jpg
+- image16.jpg
+- image17.jpg
+- image18.jpg
+- image19.jpg
+- image20.jpg
+- image21.jpg
+- image22.jpg
+- image23.jpg
+- image24.jpg
+- image25.jpg
+- image26.jpg
+- image27.jpg
+- image28.jpg
+- image29.jpg
+- image30.jpg
+- image31.jpg
+- image32.jpg
+- image33.jpg
+- image34.jpg
+- image35.jpg
+- image36.jpg
+- image37.jpg
+- image38.jpg
+- image39.jpg
+- image40.jpg
+- image41.jpg
+- image42.jpg
+- image43.jpg
+- image44.jpg
+- image45.jpg
+- image46.jpg
+- image47.jpg
+- image48.jpg
+- image49.jpg
+- image50.jpg
+- image51.jpg
+- image52.jpg
+- image53.jpg
+- image54.jpg
+- image55.jpg
+- image56.jpg
+- image57.jpg
+
+Notes & recommendations:
+- If you copy this HTML to another folder or machine, copy the
+	entire `images/` folder (including `Video1.mp4`) into the new
+	location so all visuals and the welcome video load correctly.
+- The page gracefully degrades: missing images display a small
+	placeholder created by `handleImgErr()` so layout and
+	interactivity continue to work.
+- If you prefer a minimal standalone simulator only, you can keep
+	just the images used by the simulator (the simulator itself uses
+	background layers and a few sprite images if present). For a
+	full-course copy, include all referenced files above.
+
+Need help collecting the missing files into `images/`? I can:
+- create a checklist file listing all missing names, or
+- generate a zip of the present files, or
+- scaffold a minimal `images/placeholder` set to let you run the
+	page locally while you source the original artwork images.
+Tell me which you want.
