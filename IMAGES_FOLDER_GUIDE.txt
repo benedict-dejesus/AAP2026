@@ -55,4 +55,4 @@
 * image54.jpg - Low Angle (OK)
 * image55.jpg - Bird's-Eye 
 * image56.jpg - Worm's-Eye 
-* image57.jpg - Dutch Angle 
+* image57.jpg - Dutch Angle (OK)
