@@ -5,27 +5,27 @@
 * image4.jpg - Photo 3 (OK)
 * image5.jpg - Photo 4 (OK)
 * image6.jpg - Art quote (OK)
-* image7.jpg - Art is not nature 
-* image8.jpg - Art is experiential 
-* image9.jpg - Art as expression 
+* image7.jpg - Art is not nature (OK)
+* image8.jpg - Art is experiential (OK)
+* image9.jpg - Art as expression (OK)
 * image10.jpg - Artist (OK)
 * image11.jpg - Artisan (OK)
 * image12.jpg - Realism (OK)
 * image13.jpg - Impressionism 
 * image14.jpg - Expressionism (OK)
-* image15.jpg - Cubism 
+* image15.jpg - Cubism (OK)
 * image16.jpg - Surrealism (OK)
 * image17.jpg - Abstract Art (OK)
-* image18.jpg - Pop Art
-* image19.jpg - Fauvism
-* image20.jpg - Which movement?
-* image21.jpg - Line
-* image22.jpg - Shape
-* image23.jpg - Form
-* image24.jpg - Color
-* image25.jpg - Value
-* image26.jpg - Texture
-* image27.jpg - Space
+* image18.jpg - Pop Art (OK)
+* image19.jpg - Fauvism (OK)
+* image20.jpg - Which movement? (OK)
+* image21.jpg - Line (OK)
+* image22.jpg - Shape (OK)
+* image23.jpg - Form (OK)
+* image24.jpg - Color (OK)
+* image25.jpg - Value (OK)
+* image26.jpg - Texture (OK)
+* image27.jpg - Space (OK)
 * image28.jpg - Balance
 * image29.jpg - Contrast
 * image30.jpg - Emphasis
