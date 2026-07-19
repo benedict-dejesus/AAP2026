@@ -26,9 +26,9 @@
 * image25.jpg - Value (OK)
 * image26.jpg - Texture (OK)
 * image27.jpg - Space (OK)
-* image28.jpg - Balance
-* image29.jpg - Contrast
-* image30.jpg - Emphasis
+* image28.jpg - Balance (OK)
+* image29.jpg - Contrast (OK)
+* image30.jpg - Emphasis (OK)
 * image31.jpg - Movement
 * image32.jpg - Pattern
 * image33.jpg - Rhythm
